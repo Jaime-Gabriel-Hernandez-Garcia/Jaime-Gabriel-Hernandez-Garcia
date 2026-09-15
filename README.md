@@ -7,7 +7,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
   </picture>
 
-  <!-- ═══ SUBTITLE ANIMATION ═══ -->
+  <!-- ═══ SUBTITLE ANIMATION (PASTEL BLUE ACCENT) ═══ -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Resoluci%C3%B3n+de+Problemas+%26+Algoritmos+%F0%9F%A7%A0;Construyendo+software+escalable+y+limpio+%E2%9C%A8" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Resoluci%C3%B3n+de+Problemas+%26+Algoritmos+%F0%9F%A7%A0;Construyendo+software+escalable+y+limpio+%E2%9C%A8" />
@@ -77,28 +77,36 @@
 
 <div align="center">
 
-  <p><b>Lenguajes</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Lenguajes-89B4FA?style=flat-square&labelColor=1E293B" alt="Lenguajes" />
+  </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Lenguajes"/>
   </a>
 
   <br/><br/>
 
-  <p><b>Frontend & Frameworks</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Frontend_%26_UI-90CDF4?style=flat-square&labelColor=1E293B" alt="Frontend" />
+  </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend"/>
   </a>
 
   <br/><br/>
 
-  <p><b>Backend & Bases de Datos</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Backend_%26_Databases-BAE6FD?style=flat-square&labelColor=1E293B" alt="Backend" />
+  </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql&theme=dark" alt="Backend"/>
   </a>
 
   <br/><br/>
 
-  <p><b>Herramientas & Entorno de Trabajo</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_DevOps_%26_Herramientas-B4BEFE?style=flat-square&labelColor=1E293B" alt="Herramientas" />
+  </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode&theme=dark" alt="Herramientas"/>
   </a>
@@ -121,20 +129,36 @@
 
 <div align="center">
 
-  <!-- Racha de contribuciones con paleta pastel Nord -->
-  <img src="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&theme=nord&hide_border=true&border_radius=8" alt="GitHub Streak" width="95%" />
+  <!-- Racha de contribuciones con paleta pastel adaptativa -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&theme=nord&background=2E3440&border=4C566A&stroke=88C0D0&ring=81A1C1&fire=88C0D0&currStreakNum=ECEFF4&sideNums=88C0D0&currStreakLabel=81A1C1&sideLabels=D8DEE9&dates=81A1C1&border_radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&background=FFFFFF&border=E4E2E2&stroke=5E81AC&ring=81A1C1&fire=5E81AC&currStreakNum=2E3440&sideNums=5E81AC&currStreakLabel=5E81AC&sideLabels=4C566A&dates=5E81AC&border_radius=8" />
+    <img src="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&theme=nord&background=2E3440&border=4C566A&stroke=88C0D0&ring=81A1C1&fire=88C0D0&currStreakNum=ECEFF4&sideNums=88C0D0&currStreakLabel=81A1C1&sideLabels=D8DEE9&dates=81A1C1&border_radius=8" alt="GitHub Streak" width="95%" />
+  </picture>
 
   <br/><br/>
 
   <!-- Resumen de actividad y perfil (Tarjeta horizontal ancha 700x200) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Perfil GitHub" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Perfil GitHub" width="95%" />
+  </picture>
 
   <br/><br/>
 
   <!-- Par de gráficas gemelas con proporciones idénticas (340x200 cada una) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes por Repositorios" width="47%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Lenguajes por Repositorios" width="47%" />
+  </picture>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes por Commits" width="47%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Lenguajes por Commits" width="47%" />
+  </picture>
 
 </div>
 
