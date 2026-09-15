@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+  <style>
+    * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .bg { fill: #ffffff; stroke: #e4e2e2; }
+    .title { fill: #0f172a; font-size: 18px; font-weight: 600; }
+    .label { fill: #475569; font-size: 13px; font-weight: 500; }
+    .pct { fill: #94a3b8; font-size: 12px; }
+    
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #2e3440; stroke: #4c566a; }
+      .title { fill: #eceff4; }
+      .label { fill: #d8dee9; }
+      .pct { fill: #88c0d0; }
+    }
+  </style>
+  
+  <!-- Container Card -->
+  <rect class="bg" x="1" y="1" width="338" height="198" rx="8" ry="8" stroke-width="1" />
+  
+  <!-- Title -->
+  <text x="25" y="36" class="title">Top Languages</text>
+  
+  <!-- Legend Items (Pastel Blue Palette) -->
+  <g transform="translate(25, 55)">
+    <!-- Java (47%) -->
+    <rect x="0" y="0" width="12" height="12" rx="3" fill="#89B4FA" />
+    <text x="20" y="11" class="label">Java</text>
+    <text x="100" y="11" class="pct">47.1%</text>
+    
+    <!-- HTML (29%) -->
+    <rect x="0" y="24" width="12" height="12" rx="3" fill="#90CDF4" />
+    <text x="20" y="35" class="label">HTML</text>
+    <text x="100" y="35" class="pct">29.4%</text>
+    
+    <!-- JavaScript (12%) -->
+    <rect x="0" y="48" width="12" height="12" rx="3" fill="#BAE6FD" />
+    <text x="20" y="59" class="label">JavaScript</text>
+    <text x="100" y="59" class="pct">11.8%</text>
+    
+    <!-- Python (6%) -->
+    <rect x="0" y="72" width="12" height="12" rx="3" fill="#74C0FC" />
+    <text x="20" y="83" class="label">Python</text>
+    <text x="100" y="83" class="pct">5.9%</text>
+    
+    <!-- EJS (6%) -->
+    <rect x="0" y="96" width="12" height="12" rx="3" fill="#B4BEFE" />
+    <text x="20" y="107" class="label">EJS</text>
+    <text x="100" y="107" class="pct">5.9%</text>
+  </g>
+  
+  <!-- Donut Chart in Pure Pastel Blue Shades -->
+  <!-- Center: 245, 115. Radius: 50. Circumference: 314.16 -->
+  <g transform="translate(245, 115) rotate(-90)">
+    <!-- Background Track -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#334155" stroke-width="20" opacity="0.15" />
+    
+    <!-- Java: 47.1% (stroke-dasharray: 147.9 314.16) -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#89B4FA" stroke-width="20"
+            stroke-dasharray="147.9 314.16" stroke-dashoffset="0" />
+            
+    <!-- HTML: 29.4% (stroke-dasharray: 92.3 314.16) offset: -147.9 -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#90CDF4" stroke-width="20"
+            stroke-dasharray="92.3 314.16" stroke-dashoffset="-147.9" />
+            
+    <!-- JS: 11.8% (stroke-dasharray: 37.0 314.16) offset: -240.2 -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#BAE6FD" stroke-width="20"
+            stroke-dasharray="37.0 314.16" stroke-dashoffset="-240.2" />
+            
+    <!-- Python: 5.9% (stroke-dasharray: 18.5 314.16) offset: -277.2 -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#74C0FC" stroke-width="20"
+            stroke-dasharray="18.5 314.16" stroke-dashoffset="-277.2" />
+            
+    <!-- EJS: 5.9% (stroke-dasharray: 18.5 314.16) offset: -295.7 -->
+    <circle cx="0" cy="0" r="50" fill="transparent" stroke="#B4BEFE" stroke-width="20"
+            stroke-dasharray="18.5 314.16" stroke-dashoffset="-295.7" />
+  </g>
+</svg>

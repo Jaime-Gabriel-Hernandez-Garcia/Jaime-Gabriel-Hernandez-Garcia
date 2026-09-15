@@ -192,18 +192,14 @@
 
   <br/><br/>
 
-  <!-- Par de gráficas gemelas con proporciones idénticas (340x200 cada una) -->
+  <!-- Par de tarjetas gemelas en 100% paleta azul pastel y nórdica (340x200 c/u) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Lenguajes por Repositorios" width="47%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Estadísticas de Perfil" width="47%" />
   </picture>
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord_dark" alt="Lenguajes por Commits" width="47%" />
-  </picture>
+  <img src=".github/assets/top-languages.svg" alt="Lenguajes en Tonos Azul Pastel" width="47%" />
 
 </div>
 
