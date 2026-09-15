@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- ═══ HEADER BANNER (PASTEL BLUE GRADIENT) ═══ -->
+  <!-- ═══ HEADER BANNER (100% PURE PASTEL BLUE GRADIENT) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E293B,2D4B73,4682B4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
   </picture>
 
   <!-- ═══ SUBTITLE ANIMATION (PASTEL BLUE ACCENT) ═══ -->
@@ -164,12 +164,12 @@
 
 <br/>
 
-<!-- ═══ FOOTER BANNER ═══ -->
+<!-- ═══ FOOTER BANNER (100% PURE PASTEL BLUE GRADIENT) ═══ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E293B,2D4B73,4682B4,89B4FA&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=100&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=100&section=footer" alt="Footer Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=100&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=100&section=footer" alt="Footer Banner" width="100%" />
   </picture>
   <sub>Diseñado con precisión · <b>Jaime Gabriel Hernández García</b></sub>
 </div>
