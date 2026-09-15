@@ -1,21 +1,25 @@
 <div align="center">
 
-  <!-- ═══ HEADER BANNER (PASTEL BLUE WAVING GRADIENT) ═══ -->
+  <!-- ═══ HEADER BANNER (CLEAN PASTEL BLUE WAVE) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=130&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=130&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=130&section=header" alt="Wave Header" width="100%" />
   </picture>
 
-  <!-- ═══ SUBTITLE ANIMATION CON MANO SALUDANDO ═══ -->
-  <h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" alt="Waving Hand" />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=89B4FA&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=89B4FA&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" alt="Typing Greeting" />
-    </picture>
-  </h1>
+  <!-- ═══ MAIN TITLE (PERFECTLY CENTERED, MODERN TYPOGRAPHY) ═══ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Jaime+Gabriel+%F0%9F%91%8B;Software+Developer+%E2%9C%A8;Backend+%26+Systems+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&lines=Jaime+Gabriel+%F0%9F%91%8B;Software+Developer+%E2%9C%A8;Backend+%26+Systems+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Jaime+Gabriel+%F0%9F%91%8B;Software+Developer+%E2%9C%A8;Backend+%26+Systems+%F0%9F%9A%80" alt="Jaime Gabriel" />
+  </picture>
+
+  <!-- ═══ SUBTITLE (PERFECTLY CENTERED, MONOSPACE) ═══ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=475569&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" alt="Role Subtitle" />
+  </picture>
 
   <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
   <p align="center">
