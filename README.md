@@ -122,13 +122,19 @@
 <div align="center">
 
   <!-- Racha de contribuciones con paleta pastel Nord -->
-  <img src="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&theme=nord&hide_border=true&border_radius=8" alt="GitHub Streak" width="85%" />
+  <img src="https://streak-stats.demolab.com?user=Jaime-Gabriel-Hernandez-Garcia&theme=nord&hide_border=true&border_radius=8" alt="GitHub Streak" width="95%" />
 
   <br/><br/>
 
-  <!-- Métricas de perfil y distribución de lenguajes -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Perfil GitHub" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes" width="48%" />
+  <!-- Resumen de actividad y perfil (Tarjeta horizontal ancha 700x200) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Perfil GitHub" width="95%" />
+
+  <br/><br/>
+
+  <!-- Par de gráficas gemelas con proporciones idénticas (340x200 cada una) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes por Repositorios" width="47%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes por Commits" width="47%" />
 
 </div>
 
