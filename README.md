@@ -16,9 +16,9 @@
 
   <!-- ═══ SUBTITLE (PERFECTLY CENTERED, MONOSPACE) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=475569&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" alt="Role Subtitle" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=475569&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" alt="Role Subtitle" />
   </picture>
 
   <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
@@ -42,15 +42,15 @@
 
   <!-- ═══ FEATURE 1: TERMINAL INTERACTIVA ANIMADA (MACOS TYPEWRITER) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=E0F2FE&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=0F172A&fontAlign=10&fontAlignY=65" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" alt="Terminal Header" width="620" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40escom-ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=E0F2FE&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40escom-ipn%3A~&fontSize=13&fontColor=0F172A&fontAlign=10&fontAlignY=65" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40escom-ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" alt="Terminal Header" width="620" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=0369A1&background=F0F9FF&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" alt="Terminal Body" width="620" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Escuela+Superior+de+C%C3%B3mputo+%28IPN%29+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=0369A1&background=F0F9FF&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Escuela+Superior+de+C%C3%B3mputo+%28IPN%29+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Escuela+Superior+de+C%C3%B3mputo+%28IPN%29+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" alt="Terminal Body" width="620" />
   </picture>
 
   <!-- ═══ FEATURE 4: LÍNEA DIVISORIA CON PULSO DE ONDA ═══ -->
@@ -71,7 +71,7 @@
 
 | 🏷️ **Categoría** | 📌 **Detalles** |
 | :--- | :--- |
-| 🎓 **Universidad** | Instituto Politécnico Nacional (IPN) 🇲🇽 |
+| 🎓 **Universidad** | Escuela Superior de Cómputo (IPN) 🇲🇽 |
 | 💻 **Especialidad** | Desarrollo de Software · Backend · Arquitectura de Sistemas |
 | ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones modulares |
 | 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
