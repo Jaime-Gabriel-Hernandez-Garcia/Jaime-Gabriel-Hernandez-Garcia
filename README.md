@@ -2,9 +2,9 @@
 
   <!-- ═══ HEADER BANNER (PASTEL BLUE GRADIENT) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E293B,2D4B73,4682B4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E293B,2D4B73,4682B4,89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0F2FE,BAE6FD,90CDF4,89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
   </picture>
 
   <!-- ═══ SUBTITLE ANIMATION ═══ -->
@@ -16,8 +16,10 @@
 
   <br/>
 
-  <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
+  <!-- ═══ VISITOR COUNTER & PASTEL SOCIAL BADGES ═══ -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Jaime-Gabriel-Hernandez-Garcia&color=89b4fa&style=flat-square&label=VISTAS+AL+PERFIL" alt="Vistas"/>
+    &nbsp;
     <a href="mailto:jhernandezg1915@alumno.ipn.mx" target="_blank">
       <img src="https://img.shields.io/badge/Email-jhernandezg1915-BAE6FD?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email"/>
     </a>
@@ -48,20 +50,19 @@
 
 ### 🩵 Sobre mí
 
-<div align="center">
+<!-- Sticker / Avatar flotante lateral -->
+<img align="right" width="240" src=".github/assets/coder.png" alt="Coder Illustration" style="border-radius: 16px; margin: 0 0 15px 20px;" />
 
 | 🏷️ **Categoría** | 📌 **Detalles** |
 | :--- | :--- |
 | 🎓 **Universidad** | Instituto Politécnico Nacional (IPN) 🇲🇽 |
 | 💻 **Especialidad** | Desarrollo de Software · Backend · Arquitectura de Sistemas |
-| ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones escalables |
-| 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
+| ⚡ **Enfoque Principal** | Código limpio, algoritmos eficientes y diseño modular |
+| 🌱 **Explorando** | Arquitecturas distribuidas, Microservicios & Cloud |
 | 🌐 **Idiomas** | Español (Nativo) · Inglés (Técnico) |
 | 📫 **Contacto** | [jhernandezg1915@alumno.ipn.mx](mailto:jhernandezg1915@alumno.ipn.mx) |
 
-</div>
-
-<br/>
+<br clear="both" />
 
 <div align="center">
   <picture>
@@ -84,7 +85,7 @@
 
   <br/><br/>
 
-  <p><b>Frontend & Frameworks</b></p>
+  <p><b>Frontend & UI</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend"/>
   </a>
@@ -98,7 +99,7 @@
 
   <br/><br/>
 
-  <p><b>Herramientas & Entorno de Trabajo</b></p>
+  <p><b>Herramientas & Entorno</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode&theme=dark" alt="Herramientas"/>
   </a>
@@ -130,7 +131,47 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Perfil GitHub" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaime-Gabriel-Hernandez-Garcia&theme=nord" alt="Lenguajes" width="48%" />
 
+  <br/><br/>
+
+  <!-- Cita de programación dinámica pastel -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Programming Quote" width="85%" />
+
 </div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=89B4FA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" alt="divider"/>
+  </picture>
+</div>
+
+<br/>
+
+### 🧩 Extras & Configuración
+
+<details>
+  <summary><b>⚙️ Entorno de Desarrollo & Dotfiles</b></summary>
+  <br/>
+
+  - 💻 **Sistema:** Linux (WSL2 / Arch) & Windows 11
+  - 🖥️ **Terminal:** Windows Terminal / Alacritty + Zsh & Starship Prompt
+  - 📝 **Editor Principal:** Visual Studio Code / Neovim
+  - 🎨 **Temas Favoritos:** Tokyo Night, Catppuccin Mocha & Nord
+  - 🔤 **Tipografía:** JetBrains Mono & Fira Code Nerd Font
+</details>
+
+<details>
+  <summary><b>🎯 Metas & Roadmap 2026</b></summary>
+  <br/>
+
+  - [ ] Consolidar conocimientos en arquitecturas distribuidas y microservicios.
+  - [ ] Desarrollar proyectos de alto rendimiento en C++ y Python.
+  - [ ] Realizar contribuciones continuas a proyectos de código abierto.
+  - [ ] Certificación Cloud (AWS / Azure).
+</details>
 
 <br/>
 
