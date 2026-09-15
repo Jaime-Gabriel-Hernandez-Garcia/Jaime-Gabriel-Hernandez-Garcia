@@ -1,20 +1,21 @@
 <div align="center">
 
-  <!-- ═══ HEADER BANNER (100% PURE PASTEL BLUE GRADIENT) ═══ -->
+  <!-- ═══ HEADER BANNER (PASTEL BLUE WAVING GRADIENT) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=200&section=header&text=Jaime%20Gabriel&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=210&section=header&text=Jaime%20Gabriel&fontSize=48&fontColor=0F172A&fontAlignY=36&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20Developer%20%C2%B7%20IPN&descFontSize=17&descAlignY=58&descAlign=50" alt="Jaime Gabriel Banner" />
   </picture>
 
-  <!-- ═══ SUBTITLE ANIMATION (PASTEL BLUE ACCENT) ═══ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Resoluci%C3%B3n+de+Problemas+%26+Algoritmos+%F0%9F%A7%A0;Construyendo+software+escalable+y+limpio+%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Resoluci%C3%B3n+de+Problemas+%26+Algoritmos+%F0%9F%A7%A0;Construyendo+software+escalable+y+limpio+%E2%9C%A8" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+%40+IPN+%F0%9F%8E%93;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Resoluci%C3%B3n+de+Problemas+%26+Algoritmos+%F0%9F%A7%A0;Construyendo+software+escalable+y+limpio+%E2%9C%A8" alt="Typing Subtitle" />
-  </picture>
-
-  <br/>
+  <!-- ═══ SUBTITLE ANIMATION CON MANO SALUDANDO ═══ -->
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" alt="Waving Hand" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=89B4FA&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=89B4FA&center=false&vCenter=true&width=450&lines=Hola%2C+soy+Jaime+Gabriel+%E2%9C%A8;Software+Developer+%F0%9F%9A%80;Estudiante+%40+IPN+%F0%9F%8E%93" alt="Typing Greeting" />
+    </picture>
+  </h1>
 
   <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
   <p align="center">
@@ -35,11 +36,24 @@
     </a>
   </p>
 
-  <!-- ═══ PASTEL DIVIDER ═══ -->
+  <!-- ═══ FEATURE 1: TERMINAL INTERACTIVA ANIMADA (MACOS TYPEWRITER) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=89B4FA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" alt="divider"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=28&color=E0F2FE&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=0F172A&fontAlign=10&fontAlignY=65" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20jaime%40ipn%3A~&fontSize=13&fontColor=89B4FA&fontAlign=10&fontAlignY=65" alt="Terminal Header" width="620" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=0369A1&background=F0F9FF&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=89B4FA&background=0F172A&center=false&vCenter=true&width=620&height=100&lines=%24+whoami+%E2%86%92+Jaime+Gabriel+%2F%2F+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+cat+education.txt+%E2%86%92+Instituto+Polit%C3%A9cnico+Nacional+%F0%9F%8E%93;%24+echo+%24STACK+%E2%86%92+Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Linux+%E2%9A%99%EF%B8%8F;%24+current_focus+%E2%86%92+Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio+%E2%9C%A8" alt="Terminal Body" width="620" />
+  </picture>
+
+  <!-- ═══ FEATURE 4: LÍNEA DIVISORIA CON PULSO DE ONDA ═══ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=45&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" alt="Wave Divider" width="100%" />
   </picture>
 
 </div>
@@ -48,26 +62,26 @@
 
 ### 🩵 Sobre mí
 
-<div align="center">
+<!-- ═══ FEATURE 3: STICKER / CODER ANIMADO LOFI PIXEL ART ═══ -->
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi Coding Animation" style="border-radius: 14px; margin: 0 0 15px 20px;" />
 
 | 🏷️ **Categoría** | 📌 **Detalles** |
 | :--- | :--- |
 | 🎓 **Universidad** | Instituto Politécnico Nacional (IPN) 🇲🇽 |
 | 💻 **Especialidad** | Desarrollo de Software · Backend · Arquitectura de Sistemas |
-| ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones escalables |
+| ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones modulares |
 | 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
 | 🌐 **Idiomas** | Español (Nativo) · Inglés (Técnico) |
 | 📫 **Contacto** | [jhernandezg1915@alumno.ipn.mx](mailto:jhernandezg1915@alumno.ipn.mx) |
 
-</div>
+<br clear="both" />
 
-<br/>
-
+<!-- ═══ PULSO DE ONDA ═══ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=89B4FA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" alt="divider"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=45&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" alt="Wave Divider" width="100%" />
   </picture>
 </div>
 
@@ -115,11 +129,38 @@
 
 <br/>
 
+<!-- ═══ PULSO DE ONDA ═══ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=89B4FA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=90CDF4" alt="divider"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=45&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" alt="Wave Divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+### 🐍 Snake Contribution Game
+
+<div align="center">
+
+  <!-- ═══ FEATURE 2: JUEGO DE LA SERPIENTE ANIMADO ═══ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaime-Gabriel-Hernandez-Garcia/Jaime-Gabriel-Hernandez-Garcia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaime-Gabriel-Hernandez-Garcia/Jaime-Gabriel-Hernandez-Garcia/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Jaime-Gabriel-Hernandez-Garcia/Jaime-Gabriel-Hernandez-Garcia/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<!-- ═══ PULSO DE ONDA ═══ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=45&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" alt="Wave Divider" width="100%" />
   </picture>
 </div>
 
