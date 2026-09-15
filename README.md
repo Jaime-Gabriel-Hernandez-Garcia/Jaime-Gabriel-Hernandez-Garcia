@@ -34,7 +34,6 @@ educación: Instituto Politécnico Nacional (IPN)
 ubicación: México
 enfoque: Desarrollo de Software, Algoritmos & Solución de Problemas
 intereses: Backend, Cloud, Sistemas y Código Abierto
-contacto: jhernandezg1915@alumno.ipn.mx
 ```
 
 - 🎓 Estudiante en el **Instituto Politécnico Nacional**.
