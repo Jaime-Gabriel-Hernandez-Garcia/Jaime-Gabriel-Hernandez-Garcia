@@ -23,8 +23,8 @@
 
   <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
   <p align="center">
-    <a href="mailto:jhernandezg1915@alumno.ipn.mx" target="_blank">
-      <img src="https://img.shields.io/badge/Email-jhernandezg1915-BAE6FD?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email"/>
+    <a href="mailto:jaimegabrielhernandezgarcia@hotmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contacto-BAE6FD?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email"/>
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/" target="_blank">
@@ -76,7 +76,7 @@
 | ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones modulares |
 | 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
 | 🌐 **Idiomas** | Español (Nativo) · Inglés (Técnico) |
-| 📫 **Contacto** | [jhernandezg1915@alumno.ipn.mx](mailto:jhernandezg1915@alumno.ipn.mx) |
+| 📫 **Contacto** | [jaimegabrielhernandezgarcia@hotmail.com](mailto:jaimegabrielhernandezgarcia@hotmail.com) |
 
 <br clear="both" />
 
