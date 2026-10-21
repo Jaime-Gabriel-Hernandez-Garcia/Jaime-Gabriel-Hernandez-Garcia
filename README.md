@@ -16,9 +16,9 @@
 
   <!-- ═══ SUBTITLE (PERFECTLY CENTERED, MONOSPACE) ═══ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=475569&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Estudiante+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Arquitecturas+Escalables+%26+C%C3%B3digo+Limpio" alt="Role Subtitle" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=580&lines=CS+Student+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Backend+%26+Software+Engineering+%F0%9F%9A%80;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Scalable+Architectures+%26+Clean+Code+%E2%9C%A8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=475569&center=true&vCenter=true&width=580&lines=CS+Student+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Backend+%26+Software+Engineering+%F0%9F%9A%80;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Scalable+Architectures+%26+Clean+Code+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=580&lines=CS+Student+%40+ESCOM+%28IPN%29+%F0%9F%8E%93;Backend+%26+Software+Engineering+%F0%9F%9A%80;Python+%C2%B7+C%2B%2B+%C2%B7+Django+%C2%B7+Linux;Scalable+Architectures+%26+Clean+Code+%E2%9C%A8" alt="Role Subtitle" />
   </picture>
 
   <!-- ═══ PASTEL SOCIAL BADGES ═══ -->
@@ -64,21 +64,44 @@
 
 <br/>
 
-### 🩵 Sobre mí
+### 🩵 Sobre mí · About Me
 
-<!-- ═══ FEATURE 3: STICKER / CODER ANIMADO LOFI PIXEL ART ═══ -->
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi Coding Animation" style="border-radius: 14px; margin: 0 0 15px 20px;" />
+<details open>
+  <summary><b>🇪🇸 Español</b></summary>
+  <br/>
 
-| 🏷️ **Categoría** | 📌 **Detalles** |
-| :--- | :--- |
-| 🎓 **Universidad** | Escuela Superior de Cómputo (IPN) 🇲🇽 |
-| 💻 **Especialidad** | Desarrollo de Software · Backend · Arquitectura de Sistemas |
-| ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones modulares |
-| 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
-| 🌐 **Idiomas** | Español (Nativo) · Inglés (Técnico) |
-| 📫 **Contacto** | [jaimegabrielhernandezgarcia@hotmail.com](mailto:jaimegabrielhernandezgarcia@hotmail.com) |
+  <!-- ═══ FEATURE 3: STICKER / CODER ANIMADO LOFI PIXEL ART ═══ -->
+  <img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi Coding Animation" style="border-radius: 14px; margin: 0 0 15px 20px;" />
 
-<br clear="both" />
+  | 🏷️ **Categoría** | 📌 **Detalles** |
+  | :--- | :--- |
+  | 🎓 **Universidad** | Escuela Superior de Cómputo (IPN) 🇲🇽 |
+  | 💻 **Especialidad** | Desarrollo de Software · Backend · Arquitectura de Sistemas |
+  | ⚡ **Enfoque** | Código limpio, algoritmos eficientes y soluciones modulares |
+  | 🌱 **Aprendizaje** | Cloud, Microservicios y Patrones de Diseño |
+  | 🌐 **Idiomas** | Español (Nativo) · Inglés (Técnico / B2) |
+  | 📫 **Contacto** | [jaimegabrielhernandezgarcia@hotmail.com](mailto:jaimegabrielhernandezgarcia@hotmail.com) |
+
+  <br clear="both" />
+</details>
+
+<details>
+  <summary><b>🇬🇧 English Version</b></summary>
+  <br/>
+
+  <img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi Coding Animation" style="border-radius: 14px; margin: 0 0 15px 20px;" />
+
+  | 🏷️ **Category** | 📌 **Details** |
+  | :--- | :--- |
+  | 🎓 **University** | Escuela Superior de Cómputo (IPN) 🇲🇽 |
+  | 💻 **Field / Focus** | Software Engineering · Backend · Systems Architecture |
+  | ⚡ **Approach** | Clean code, efficient algorithms, and modular design |
+  | 🌱 **Learning** | Cloud Computing, Microservices & Design Patterns |
+  | 🌐 **Languages** | Spanish (Native) · English (Professional / Technical) |
+  | 📫 **Contact** | [jaimegabrielhernandezgarcia@hotmail.com](mailto:jaimegabrielhernandezgarcia@hotmail.com) |
+
+  <br clear="both" />
+</details>
 
 <!-- ═══ PULSO DE ONDA ═══ -->
 <div align="center">
@@ -91,12 +114,12 @@
 
 <br/>
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico · Tech Stack
 
 <div align="center">
 
   <p>
-    <img src="https://img.shields.io/badge/%E2%9A%A1_Lenguajes-89B4FA?style=flat-square&labelColor=1E293B" alt="Lenguajes" />
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Languages_%C2%B7_Lenguajes-89B4FA?style=flat-square&labelColor=1E293B" alt="Lenguajes" />
   </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" alt="Lenguajes"/>
@@ -123,7 +146,7 @@
   <br/><br/>
 
   <p>
-    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_DevOps_%26_Herramientas-B4BEFE?style=flat-square&labelColor=1E293B" alt="Herramientas" />
+    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_DevOps_%26_Tools-B4BEFE?style=flat-square&labelColor=1E293B" alt="Herramientas" />
   </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode&theme=dark" alt="Herramientas"/>
@@ -170,7 +193,7 @@
 
 <br/>
 
-### 📊 Actividad y Estadísticas en GitHub
+### 📊 Actividad y Estadísticas · GitHub Activity & Stats
 
 <div align="center">
 
@@ -212,5 +235,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=100&section=footer" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=100&section=footer" alt="Footer Banner" width="100%" />
   </picture>
-  <sub>Diseñado con precisión · <b>Jaime Gabriel Hernández García</b></sub>
+  <sub>Diseñado con precisión · Crafted with precision · <b>Jaime Gabriel Hernández García</b></sub>
 </div>
