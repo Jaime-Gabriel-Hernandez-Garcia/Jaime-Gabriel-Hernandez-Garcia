@@ -1,0 +1,29 @@
+{
+  "title": "DevOps Skill Radar",
+  "axes": [
+    {
+      "label": "CI/CD & Pipelines",
+      "value": 90
+    },
+    {
+      "label": "Cloud (AWS/Azure)",
+      "value": 85
+    },
+    {
+      "label": "Kubernetes & Docker",
+      "value": 88
+    },
+    {
+      "label": "IaC (Terraform)",
+      "value": 85
+    },
+    {
+      "label": "Observability",
+      "value": 80
+    },
+    {
+      "label": "SRE & Reliability",
+      "value": 75
+    }
+  ]
+}

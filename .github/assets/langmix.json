@@ -1,0 +1,25 @@
+{
+  "title": "DevOps Language Stack",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 88
+    },
+    {
+      "label": "Bash/Shell",
+      "value": 85
+    },
+    {
+      "label": "Javascript",
+      "value": 90
+    },
+    {
+      "label": "C++",
+      "value": 85
+    },
+    {
+      "label": "YAML",
+      "value": 90
+    }
+  ]
+}

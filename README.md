@@ -169,6 +169,40 @@
 
 <br/>
 
+### 📡 Radar de Competencias · Skill & Language Radars
+
+<div align="center">
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/radar-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset=".github/assets/radar-light.svg">
+      <img src=".github/assets/radar-dark.svg" width="410" alt="DevOps Skill Radar">
+    </picture>&nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/radar-langs-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset=".github/assets/radar-langs-light.svg">
+      <img src=".github/assets/radar-langs-dark.svg" width="380" alt="DevOps Language Stack">
+    </picture>
+  </p>
+
+  <p align="center"><sub><code>signals: devops_skill_radar · language_stack_radar · status: healthy</code></sub></p>
+
+</div>
+
+<br/>
+
+<!-- ═══ PULSO DE ONDA ═══ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=45&section=header" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=45&section=header" alt="Wave Divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 ### 🐍 Snake Contribution Game
 
 <div align="center">
