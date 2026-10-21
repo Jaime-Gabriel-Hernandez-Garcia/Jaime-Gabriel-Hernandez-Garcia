@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- ═══ HEADER BANNER (CLEAN PASTEL BLUE WAVE) ═══ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:89B4FA&height=130&section=header" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=130&section=header" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,100:89B4FA&height=130&section=header" alt="Wave Header" width="100%" />
-  </picture>
+  <!-- ═══ BESPOKE ANIMATED VIM PROFILE BANNER (PORTRAIT DITHER + DEV TOOLS) ═══ -->
+  <a href="https://github.com/Jaime-Gabriel-Hernandez-Garcia">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset=".github/assets/banner-light.svg" />
+      <img src=".github/assets/banner-dark.svg" width="960" alt="Jaime Gabriel — Vim Profile Banner" />
+    </picture>
+  </a>
 
   <!-- ═══ MAIN TITLE (PERFECTLY CENTERED, MODERN TYPOGRAPHY) ═══ -->
   <picture>
